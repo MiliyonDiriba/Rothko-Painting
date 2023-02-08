@@ -2,6 +2,7 @@
     width: 500px;
     height: 600px;
     background-color: #4d0f00;
+    overflow: hidden;
   }
   .frame {
     border: 50px solid black;
@@ -15,4 +16,16 @@
     height: 150px;
     background-color: #efb762;
     margin: 20px auto;
+  }
+  .two {
+    width: 475px;
+    height: 200px;
+    background-color: #8f0401;
+    margin: auto;
+  }
+  .three {
+    width: 91%;
+    height: 28%;
+    background-color: #b20403;
+    margin: auto;
   }
